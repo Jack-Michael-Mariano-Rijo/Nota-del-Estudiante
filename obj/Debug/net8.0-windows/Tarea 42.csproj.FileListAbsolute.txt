@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\bin\Debug\net8.0-windows\Tarea 42.exe
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\bin\Debug\net8.0-windows\Tarea 42.deps.json
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\bin\Debug\net8.0-windows\Tarea 42.runtimeconfig.json
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\bin\Debug\net8.0-windows\Tarea 42.dll
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\bin\Debug\net8.0-windows\Tarea 42.pdb
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea_42.Form1.resources
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.dll
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\refint\Tarea 42.dll
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.pdb
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\Tarea 42.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Escritorio\Gamalir(C#)\Tarea 42\obj\Debug\net8.0-windows\ref\Tarea 42.dll
