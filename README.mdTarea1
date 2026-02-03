@@ -1,0 +1,5 @@
+Crea un formulario que permita capturar las 4 notas de un estudiante
+calcule el promedio, si el promedio es igual o menor a 69, se debe activar un campo para colocar la nota del completivo
+si este es igual extraordinario, si este es igual o menor a 69, mostrar como resultado ''reprobado''.
+
+Nota Del Estudiante.
