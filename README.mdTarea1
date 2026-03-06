@@ -1,5 +1,100 @@
-Crea un formulario que permita capturar las 4 notas de un estudiante
-calcule el promedio, si el promedio es igual o menor a 69, se debe activar un campo para colocar la nota del completivo
-si este es igual extraordinario, si este es igual o menor a 69, mostrar como resultado ''reprobado''.
+# 📌 Sistema de Cálculo de Notas de Estudiante
 
-Nota Del Estudiante.
+## 📖 Descripción
+
+Este proyecto consiste en una aplicación desarrollada en **C#** que permite registrar las **cuatro notas de un estudiante**, calcular el **promedio final** y determinar el **estado académico** del estudiante.
+
+El sistema también incluye la opción de **examen completivo y extraordinario** en caso de que el estudiante no alcance la nota mínima requerida para aprobar.
+
+---
+
+## 🛠 Tecnologías Utilizadas
+
+* **Lenguaje:** C#
+* **Framework:** .NET
+* **Entorno de desarrollo:** Visual Studio Community
+* **Tipo de aplicación:** Windows Forms
+
+---
+
+## ⚙ Funcionamiento del Sistema
+
+El sistema realiza las siguientes operaciones:
+
+1. Captura **4 notas del estudiante**.
+2. Calcula automáticamente el **promedio**.
+3. Si el promedio es **70 o mayor**, el estudiante **aprueba**.
+4. Si el promedio es **69 o menor**, se activa el campo para ingresar la **nota del examen completivo**.
+5. Si después del completivo el estudiante sigue con **69 o menos**, se habilita el campo de **extraordinario**.
+6. Si la nota del **extraordinario es mayor o igual a 70**, el estudiante **aprueba**.
+7. Si la nota del **extraordinario es 69 o menor**, el resultado final será **REPROBADO**.
+
+---
+
+## 🧮 Proceso de Cálculo
+
+Promedio =
+(nota1 + nota2 + nota3 + nota4) / 4
+
+Evaluación:
+
+* Promedio ≥ 70 → **Aprobado**
+* Promedio ≤ 69 → **Completivo**
+* Completivo ≥ 70 → **Aprobado**
+* Completivo ≤ 69 → **Extraordinario**
+* Extraordinario ≥ 70 → **Aprobado**
+* Extraordinario ≤ 69 → **Reprobado**
+
+---
+
+## 🖥 Funcionalidades del Sistema
+
+### 📊 Registro de Notas
+
+Permite ingresar las cuatro calificaciones del estudiante.
+
+### 📈 Cálculo de Promedio
+
+El sistema calcula automáticamente el promedio de las notas.
+
+### 📝 Examen Completivo
+
+Se habilita solo cuando el promedio es menor o igual a 69.
+
+### 📚 Examen Extraordinario
+
+Se habilita cuando el estudiante no aprueba el completivo.
+
+### 📋 Resultado Final
+
+Muestra el estado del estudiante:
+
+* **Aprobado**
+* **Extraordinario**
+* **Reprobado**
+
+---
+
+## ▶ Uso o Ejecución
+
+1. Abrir el proyecto en **Visual Studio Community**.
+2. Ejecutar la aplicación.
+3. Introducir las **cuatro notas del estudiante**.
+4. El sistema calculará automáticamente el promedio.
+5. En caso necesario, ingresar la nota de **completivo o extraordinario**.
+6. El sistema mostrará el **resultado final del estudiante**.
+
+---
+
+## 🎓 Contexto Académico
+
+* **Nivel:** Secundaria Técnico Profesional
+* **Módulo Formativo:** Desarrollo de Aplicaciones
+* **Proyecto:** Sistema de Cálculo de Notas
+* **Año escolar:** 2026
+
+---
+
+## 👤 Autor
+
+**Jack Michael**
